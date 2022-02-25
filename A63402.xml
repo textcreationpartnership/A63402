@@ -1,0 +1,350 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True and impartial naration [sic] of the remarkable providences of the living God of heaven and earth appearing for us his oppressed servants called Quakers, Nicholas Lucas, Henry Marshall, Jeremiah Hearn, John Blendall, Francis Pryor, Samuel Trahearn and Henry Feast, who most unrighteosly were at Hertford sentenced to be transported beyond the seas from our dear wives, children, parents, and relations, for inoffensively meeting to wait upon the Lord our Maker : and also may serve for an utter refutation of a lying paper published under the hand of one Edward Manning.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63402</idno>
+            <idno type="STC">Wing T2496</idno>
+            <idno type="STC">ESTC R32899</idno>
+            <idno type="EEBO-CITATION">12777663</idno>
+            <idno type="OCLC">ocm 12777663</idno>
+            <idno type="VID">93788</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63402)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93788)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1537:62)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True and impartial naration [sic] of the remarkable providences of the living God of heaven and earth appearing for us his oppressed servants called Quakers, Nicholas Lucas, Henry Marshall, Jeremiah Hearn, John Blendall, Francis Pryor, Samuel Trahearn and Henry Feast, who most unrighteosly were at Hertford sentenced to be transported beyond the seas from our dear wives, children, parents, and relations, for inoffensively meeting to wait upon the Lord our Maker : and also may serve for an utter refutation of a lying paper published under the hand of one Edward Manning.</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Imperfect: print showthrough, with loss of print.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works.</term>
+               <term>Persecution.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93788:1"/>
+            <pb facs="tcp:93788:1" rendition="simple:additions"/>
+            <p>A True and Impartial NARATION Of the REMARKABLE Providences Of the Living God of Heaven and Earth, appearing for Us his op<g ref="char:EOLhyphen"/>preſſed Servants called, QUAKERS.</p>
+            <p>
+               <hi>Nicholas Lucas, Henry Marſhall, Jermiah Hearn, John Blendall, Francis Pryor, Samuel Trahern,</hi> and <hi>Henry Feaſt,</hi> Who moſt unrighteouſly were at <hi>Hert<g ref="char:EOLhyphen"/>ford</hi> ſentenced to be Tranſported beyond the Seas from our dear Wives, Children, Parents, and Relations, for inof<g ref="char:EOLhyphen"/>fenſively meeting to wait upon the Lord our Maker.</p>
+            <p>And alſo may ſerve for an utter refutation of a Lying Paper publiſhed under the hand of one <hi>Edward Maning.</hi>
+            </p>
+            <p>
+               <hi>Is he not God of the Seas? and do not the Winds obey him? behold ye de<g ref="char:EOLhyphen"/>ſpiſpers and periſh, for a work is wrought in your day, of, or, concern<g ref="char:EOLhyphen"/>ing which, your whole Magicians, or Soothſayers cannot inform you.</hi>
+            </p>
+            <p>Printed in the Year. 1664.</p>
+            <pb facs="tcp:93788:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:93788:2"/>
+            <p>HAving ſeen a ſcurrilous Pamphlet ſubſcribed by one <hi>Ed<g ref="char:EOLhyphen"/>ward Maning</hi> (entituled the masked Devil, or Quaker, neither fearing God, nor reverencing man, <hi>&amp;c.)</hi> the which being ſo full of non-ſence, lies and contradictions doth in a great meaſure confound it ſelf, and refute its malicious Au<g ref="char:EOLhyphen"/>thor, but leaſt it ſhould have ought of influence upon any reaſonable creature, or that <hi>Maning</hi> ſhould by his impudent and often affirming untruths againſt the innocent, at laſt have a will formed in him to believe his own lies: We ſhall in the fear of the Lord, ſimply, naked<g ref="char:EOLhyphen"/>ly, and impartially declare the Providences of the living God as in mercy through his out-ſtretched arm they appear'd to and for us, and ſo leave it to the righteous witneſs of God in every conſcience to judge who is the masked [lying] Devil, neither fearing God, nor reveren<g ref="char:EOLhyphen"/>cing man, the Author of the Paper ſubſcribed by <hi>Edward Maning,</hi> or the oppreſſeh people of God called Quakers.</p>
+            <p>We <hi>N. Lucas, H. Marſhall, Jer. Hearn, John Blendall, Francis Pryor, Sam. Trahern,</hi> and <hi>Hen. Feast</hi> were ſentenced for tranſporta<g ref="char:EOLhyphen"/>tion the 13. of the ſixth month 1664. And in order to the execution of that ſentence the Sheriff gave <hi>William Edmonds</hi> Goaler of <hi>Hart<g ref="char:EOLhyphen"/>ford</hi> (as he the ſaid Goaler affirmed) power to treat with ſome Ship-maſter for that our tranſportation, which he accordingly did with one <hi>Thomas May,</hi> Maſter of the Ship called the <hi>Anne</hi> of <hi>London,</hi> and a<g ref="char:EOLhyphen"/>greed with him for five pound a head to the <hi>Barbadoes,</hi> and ſix pound to <hi>J<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>maica</hi> (which were the two places, to which the ſentence ap<g ref="char:EOLhyphen"/>pointed us to be baniſhed) withal telling him that we were free men, and ſix of us would carry goods with us, <hi>&amp;c.</hi>
+            </p>
+            <p>In order hereunto, the firſt day of the ſeventh month, the ſaid Goaler brought us up to <hi>London,</hi> and put us into the <hi>Bull Inne</hi> in <hi>Biſhops-gate</hi> ſtreet, and in leſs than half an hours ſpace the ſaid <hi>Thomas May</hi> came into us (the Goaler being with him) and asked us whether we were willing to go to ſea for the <hi>Barbadoes</hi> and <hi>Jamaica?</hi> We anſwered him with one conſent we were not willing, but were forced for con<g ref="char:EOLhyphen"/>ſcience ſake, by vertue of the late Act; Then ſaid he, I will carry no man againſt his will, withall telling the Goaler (then preſent) that he
+<pb n="2" facs="tcp:93788:3"/>
+had told him that we were all free men, and would alſo carry Goods with us, <hi>&amp;c.</hi> Well, well, ſaid the Goaler, I know my bargain, and ſo preſently both departed from us, leaving an under Goaler to keep us faſt locked up in a room.</p>
+            <p>The next day in the morning, being the ſecond day of the month aforeſaid, we were brought out of the <hi>Inne,</hi> and put into two Coaches by the order of the Goaler, and were carried down to <hi>Billings-gate,</hi> and hurried into Boats, and rowed to the Ship ſide, when we were come thither, the Goaler asked for the Maſter <hi>Thomas May,</hi> his Mate anſwered, he was not a Board, then he asked for the Boatſwaine who was not aboard neither, ſaid he then to the Mate, have you not order to take in ſeven paſſengers? the Mate anſwered he had order not to take them in. The Goaler asked from whom he had that Order? the Mate ſaid, from the Maſter, who ſaid the Goaler had you order not to take in? the Mate anſwered, the Quakers.</p>
+            <p>Then the Goaler was in a great rage, and brought us back again, and wiſhed that he were rid of us, <hi>but one of us told him, he would not be cleer of us in this world, nor in that to come, except he repented;</hi> then he carried us to the dark houſe neer <hi>Billings-gate,</hi> and locked us up in a room there that day, ſetting his two men to be our Keepers, telling us he muſt go to his Lord Chief Juſtice, to know what he ſhould do with us: He alſo went to the Kings Secretary, and ſwore that he contract<g ref="char:EOLhyphen"/>ed with the ſaid <hi>Thomas May</hi> for us as convicted perſons, by the late Act, and had acquainted the Maſter fully what we were, whereupon <hi>Thomas May</hi> was ſent for by the Kings Order, <hi>Who went, taking two witneſſes with him to prove that he contracted with</hi> William Edmonds <hi>(not knowing he was a Goaler, but thinking he had been a Merchant) to carry ſeven men that were free,</hi> and willing to go. But the Secre<g ref="char:EOLhyphen"/>tary told him, Oath was given in for the King, and that his witneſſes would do him no good. At night the Goaler returned to us, and put<g ref="char:EOLhyphen"/>ting us into two Coaches, carried us back to the <hi>Bull</hi> Inne in <hi>Biſhops-gate</hi> ſtreet again, and locked us up in a room, ſaying, he had order that none ſhould come at us.</p>
+            <p>There we were kept cloſe Priſoners, many of our Friends being de<g ref="char:EOLhyphen"/>nied ſo much as to ſee or ſpeak to us, one of our friends alſo was much abuſed by the Goaler, becauſe he earneſtly deſired to ſee us; here we continued till the fourteenth day, on which day <hi>William Edmonds,</hi> the Goaler came to us, and told us we muſt go aboard. One of us asked
+<pb n="3" facs="tcp:93788:3"/>
+him if he had an Order? he anſwered he had order from the Sheriff, but being asked to ſee it, he ſaid it was a private order, and that the Sheriff would come himſelf alſo, but the Sheriff came not, then he brought us out, and put us into two Coaches, carrying us in great haſt down to <hi>Ratcliff,</hi> but driving the privateſt and fartheſt way about, that people might not meet, nor follow us to take notice that we were baniſhed for conſcience ſake; (as they did when we were car<g ref="char:EOLhyphen"/>ried from the <hi>Bull</hi> Inne to <hi>Billings</hi>-gate) Yet ſome of our friends hearing of our being carried away, hired Coaches and followed to ſee what would become of us. At which the Goalers were angry, and threatned to Piſtol and cut the Coach-men if they followed ſo cloſe; and as ſoon as we were brought to <hi>Ratcliff,</hi> men (which he had pro<g ref="char:EOLhyphen"/>vided) ſtood ready to drag us into a houſe (much like to one called a ſpirits houſe) and brought us into a private roome, and kept us there about half an hour, not ſuffering our wives, children or friends to come at us. Afterwards they cauſed us to go down into a dark Cellar, from whence they forced us down a Ladder into Boats, which the Goaler had alſo provided, and from thence rowing us away to the Ship and compelled us aboard.</p>
+            <p>The Maſter, <hi>Thomas May</hi> being not aboard, <hi>Edward Maning</hi> (whoſe horrid lies and wickedneſs we ſhall make manifeſt in this true, ſhort, and faithful Relation) probably by the appointment of the Goaler then aboard received us, and diſcharged the Goaler of us, though he had nothing to do to undertake the charge of us, or ſo to concern himſelf with us. The ſaid <hi>Maning</hi> would alſo at the ſame time have given us leave to have gone a ſhoare again, but we being informed by the Seamen, that <hi>Maning</hi> had no command in, nor nothing to do with the Ship that they knew of, we did not, nor would not accept of his offered deceitful kindneſſe: but ſoon after the Maſter coming a<g ref="char:EOLhyphen"/>board, ſeemed much diſcontented that we were brought into his ſhip, and ſaid, that if this <hi>Edmonds</hi> had not perfidiouſly ſworn falſly, he had not been thus troubled. And commanding us out of his Ship again, he bid us go home, giving us alſo a Certificate under his hand to ſecure us from any trouble a ſhoare, in this following form.</p>
+            <pb n="4" facs="tcp:93788:4"/>
+            <floatingText xml:lang="eng" type="document">
+               <body>
+                  <head>
+                     <hi>Septemb.</hi> 14. 1664.</head>
+                  <p>Theſe are to give notice to whom it may concern, That whereas ſeven men were delivered aboard my Ship cal<g ref="char:EOLhyphen"/>led the <hi>Anne</hi> of <hi>London,</hi> to be tranſported, <hi>viz. Nicholas Lucas, Henry Feaſt, Henry Maſhall, Francis Pryor, Jere<g ref="char:EOLhyphen"/>my Herne, John Blendall,</hi> and <hi>Samuel Traherne;</hi> That by my permiſſion and leave they have liberty to go on ſhoare, and to come aboard again when I ſhall require them.</p>
+                  <closer>
+                     <dateline>Given under my hand.</dateline>
+                     <signed>Thomas May.</signed>
+                     <signed>Witneſſe,
+<list>
+                           <item>John Clements,</item>
+                           <item>William Wilſon,</item>
+                           <item>William Looker.</item>
+                        </list>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>But we were ſo far from flying from our holy cauſe, or being at all weary, afraid or unable to endure tribulation, paſſe through the fire, or ſing in the ſtocks, as that wretched Author would inſinuate in page 15. that ſeveral of us did not find freedom in our Spirits to go at <hi>Thomas May</hi>'s command though real Maſter, whereupon he forced us out, and tumbled our Goods out of the Ship into the Boat, himſelf helping to row the Boat a ſhoare, where we were at liberty as we judged, according to the Certificate<g ref="char:punc">▪</g> in which time we went to viſit our wives, children, friends and relations, (being not ſecured in houſes on <hi>Tower</hi> hill, as is falſly ſaid in the ſixth page of that lying Pamphlet) neither did <hi>Samuel Traherne</hi> make any ſlip or eſcape as is falſly ſuggeſted, but went to ſee his aged Father and Mother once more with intentions to return again, according to the contents of the ſaid Certificate, and whereas that lying author ſaith, that in op<g ref="char:EOLhyphen"/>poſition to the Magiſtrates and Officers of the Town, he rode about like another <hi>Nayler,</hi> giving God thanks that he was delivered out of
+<pb n="5" facs="tcp:93788:4"/>
+their hands, and that now they had done their worſt, and that when <hi>Francis Butler,</hi> called Juſtice, ſent for him by his man to come to him, he replyed, if <hi>Francis Batler</hi> had any thing to ſay to him, he ſhould come himſelf, all which is exceeding falſe, and a very forged lie; for he came all the way from <hi>London</hi> on foot, and ſo went through the Town to his parents houſe, being three miles from <hi>Hertford,</hi> and came not upon a horſes back till <hi>Francis Butler</hi> came into his Fathers houſe and laid violent hands on him, carrying him to his own houſe, and from thence committed him as a fugitive and Fellon to the County Goale, cauſing him to be ſet on horſe-back, and his legs to be tyed under the horſes belly, and with a guard of four men brought him in that manner, and delivered him to the Goaler; where he remained Priſoner 17 daies, through or by reaſon of ſome blood thirſty men in power, who exerciſe gteater cruelty then the greateſt ſeverity the late Act requires.</p>
+            <p>But as in this caſe, ſo in all the proceeds againſt us ſince the late Act came in force, we have been unjuſtly dealt withal, matter of Fact according to the expreſſe reaſon and Letter of the late Act, being ne<g ref="char:EOLhyphen"/>ver proved againſt us, as hath been already publiſhed.</p>
+            <p>
+               <hi>Samuel Trahern</hi> was after ſeventeen daies impriſonment releaſed by information and requeſt from <hi>Thomas May,</hi> Maſter of the Ship ſhewing to the Magiſtrates of <hi>Hertford</hi> that he gave him leave, <hi>&amp;c.</hi> although we do not deny that <hi>Edward Maning</hi> officiouſly went down to <hi>Hertford,</hi> even intruding himſelf upon us, we being paſſive in that matter otherwiſe then bearing his charges.</p>
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, on the firſt day of the eighth month we were by the Maſter, <hi>Thomas May,</hi> commanded aboard, and when we were in the Ship they weighed Anchor, and ſet ſaile, and ſailed neer to the red houſe at <hi>Deptford;</hi> but mark and behold the hand of the Lord, the wind on a ſudden brought the Ship back again to Lime-houſe, where caſting Anchor they loſt Cable and Anchor both for the preſent, the Maſter being ſtruck down with the end of the Cable, and his ſhirt torn off his arm, but was not much hurt: The Ship alſo was very like to run a ſhoare, but by caſting out another Anchor, it was prevented, then <hi>Thomas May</hi> ordered us to go a ſhoare again.</p>
+            <p>Upon the ſixth day of the ſame month we were again commanded aboard, and they having a faire winde and tyde (which carried many
+<pb n="6" facs="tcp:93788:5"/>
+Ships by us) weighed Anchor, and ſpread the Sayles, but they could not get the Ship far from the place; <hi>for although they laid forth all the endeavours that men could, yet could they not get the Ship to ſaile, at which the Seamen were troubled, and ſaid they ſhould not go out of</hi> En<g ref="char:EOLhyphen"/>gland <hi>as long as theſe men (meaning us) were aboard.</hi>
+            </p>
+            <p>Alſo one of them not regarding nor perceiving the hand of the Lord, ſaid they were bewitched, ſo they caſt Anchor again, being not able to move ſcarce a ſtones caſt from the place they had weighed An<g ref="char:EOLhyphen"/>chor, <hi>Although many other ſhips with the ſame Winde, Tyde, and Time ſailed by us quite away down the River. This ſign ſurely is to be minded by all that acknowledge and know the true and living God, whom the Winds and the Seas obey, and we cannot but confeſſe that his immediate hand was in this matter,</hi> notwithſtanding the ignorant and unbelieving are blinde, and attribute theſe and ſuch like things to accidents, common chance, <hi>&amp;c. then were we again ſet a ſhoare.</hi>
+            </p>
+            <p>And on the eigth day we were ſent for aboard the fourth time when they again weighed Anchor and hoiſed up their ſailes. And when they had ſailed from Lime-houſe to <hi>Greenwich</hi> which is about two miles, <hi>a ſudden ſtorm aroſe, they being forced to caſt Anchor to ſecure their Ship,</hi> and ſo we were put to ſhoare again.</p>
+            <p>Upon the tenth day of the ſame month we were commanded aboard the fifth time; and they once more weighed Anchor, and ſet their ſails to the winde, then was the Ship very like to run a ground. Its Bolt-ſplit one time reaching over the bank. Then were we about <hi>Black-wall</hi> ſet a <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>The Ship went well down the ſame Tyde to Graves-end.</hi>
+            </p>
+            <p>On the twelfth day we were ordered by a Meſſenger in the name of the Maſter, <hi>Thomas May,</hi> to come down with our things after the Ship, ſo we immediately according to this verbal Order, pretended to be from <hi>Thomas May,</hi> took boats, and went down to the Ship, and put our things aboard, telling the Mate and Seamen (who were unwilling to receive us or our goods) that we were ordered in the name of the Maſter, <hi>Thomas May,</hi> to come and bring our things aboard, they then told us that their Maſter was at the ſign of the <hi>Hen</hi> and <hi>Chickens</hi> at <hi>Graves-end,</hi> upon which we went a ſhoare and found him out; When he ſaw us, he asked what we did there? We anſwered
+<pb n="7" facs="tcp:93788:5"/>
+We were come according to his Order, to which he reply'd, He gave no ſuch Order; <hi>This,</hi> ſaid he, <hi>is Mannings doings.</hi> Then he charged us not to come nor ſtir at any time, except he ſent a Note under his own hand (which he ſaid we knew) or came himſelf. And he being then coming to <hi>London,</hi> bid us go back again that evening to <hi>London</hi> alſo, and ſtay there till he ſent for us, ſaying; He would give order to have our things brought a ſhore again, and ſafely ſecured the which he did: ſo ſome of us came back to <hi>London,</hi> and ſome ſtayed at <hi>Graveſ<g ref="char:EOLhyphen"/>end</hi> till the twenty eighth day of the ſame Moneth, and on which day, about the firſt hour, we were commanded aboard by <hi>Thomas May</hi> Ma<g ref="char:EOLhyphen"/>ſter, and Sailed that night to <hi>Lee</hi> Road, there they caſt Anchor by rea<g ref="char:EOLhyphen"/>ſon of the night, and before morning the Wind turned full againſt them, and blew violent and ſtrong which cauſed them to lie there two daies and three nights.</p>
+            <p>Upon the 31 day they ſet Sail thence, and Sailed to a place called the North-foreland, where they caſt Anchor again, and remained till the next day; at night we were again ſet a ſhore by <hi>Thomas May</hi>'s order at a place called <hi>Peters:</hi> and on the next day; being the ſecond of the eighth Moneth, we travelled to <hi>Deale</hi> according to the Maſters order, where we all ſeven remained till the tenth day of the ſame Moneth, where we all being in a roome together, <hi>Thomas May,</hi> Ma<g ref="char:EOLhyphen"/>ſter of the Ship came in, and declared before ſeveral witneſſes, That though we had followed and attended his Ship ſo long, yet he was re<g ref="char:EOLhyphen"/>ſolved not to carry us: and then and there gave us a Certificate of Diſcharge, and read it over himſelf to us in the preſence of the Wit<g ref="char:EOLhyphen"/>neſſes whoſe names are thereunto ſubſcribed. The copy whereof <hi>ver<g ref="char:EOLhyphen"/>batim</hi> followeth:</p>
+            <floatingText xml:lang="eng" type="document">
+               <body>
+                  <p>
+                     <hi>Whereas there was ſeven men, called</hi> Quakers; <hi>brought on board my Ship called the</hi> Ann <hi>of</hi> London, <hi>by</hi> William Edmonds <hi>Goaler of</hi> Hertford <hi>(to wit)</hi> Nicholas Lucas, Henry Feaſt, Henry Marſhall, Francis Pryor, John Blen<g ref="char:EOLhyphen"/>dall, Jeremiah Herne, <hi>and</hi> Samuel Traherne, <hi>all which have continued waiting upon my Ship from</hi> London <hi>to</hi> Deal <hi>from the 14th day of</hi> September <hi>laſt, till this day: And I ſeeing Providence hath much croſſed me hitherto, whereby I</hi>
+                     <pb n="8" facs="tcp:93788:6"/>
+                     <hi>perceive that the hand of the Lord is againſt me, that I dare not proceed in my Voyage to carry them, they being Inno<g ref="char:EOLhyphen"/>cent perſons, and no Crime ſignified againſt them worthy of Baniſhment; and that there is a Law in force, that no</hi> Engliſh man <hi>ſhall be carryed out of his Native Country a<g ref="char:EOLhyphen"/>gainſt his will, and alſo my men refuſe to go the Voyage if I carry them, which will be much to my hinderance, men be<g ref="char:EOLhyphen"/>ing very ſcarce by reaſon of the long continued Preſs. For theſe Reaſons therefore, and many more, I will not carry them. Theſe are therefore to Certifie any perſon or perſons that ſhall Queſtion them, or any of them, That they did not make an eſcape, but I put them on ſhore again to go whether they pleaſe.</hi>
+                  </p>
+                  <closer>
+                     <dateline>All this is Certified under my own hand <date>this Tenth day of <hi>November, 1664.</hi>
+                        </date>
+                     </dateline>
+                     <signed>Thomas May.</signed>
+                  </closer>
+                  <postscript>
+                     <p>Witneſs hereunto,</p>
+                     <closer>
+                        <signed>
+                           <list>
+                              <item>John Banckes.</item>
+                              <item>Humphrey Bigleſtone</item>
+                              <item>John Clements.</item>
+                              <item>Thomas Hollyman.</item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </postscript>
+               </body>
+            </floatingText>
+            <p>If theſe are the words of a Drunken man (as that unclean Author ig<g ref="char:EOLhyphen"/>norantly affirms in his bundle of Lyes, <hi>page</hi> 12<g ref="char:punc">▪</g>) let all that are ſober judge.</p>
+            <p>After we were thus diſcharged and left by the Maſter of the Ship, ſome of us went from <hi>Deale,</hi> and ſome of us ſtayed there till the <hi>27th</hi> of the ninth Month on which day <hi>Edward Manning</hi> commanded us to go abord, we told him, He had nothing to do with us, we having the Maſters order not to regard him, nor to mind his Command, as ſome perſons in <hi>Deale</hi> and elſewhere can witneſs: Moreover, that we had a Diſcharge from the Maſter, and therefore refuſed to obey him. Then he haſted away to the Deputy of the Town (for ſo the Chief Magiſtrate is called) and declared to him that we were Fellons, who came to us with his aſſiſtants to know what the matter was; and after he under<g ref="char:EOLhyphen"/>ſtood
+<pb n="9" facs="tcp:93788:6"/>
+fully and plainly our caſe, and ſaw the Maſters Diſcharge, the De<g ref="char:EOLhyphen"/>puty ſaid he would have nothing to do with us, but ſaid if the Ma<g ref="char:EOLhyphen"/>ſter owned tha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Certificate it was ſufficient, and if we deſired he would ſet his own hand to it. Yet afterwards, in the later part of the ſame day, by the means of the ſaid <hi>Manning,</hi> the Deputy came a<g ref="char:EOLhyphen"/>gain with <hi>Manning, and</hi> Thomas May <hi>being with him wept,</hi> and then in the preſence of the Deputy we ſaid to the Maſter, If he would deny, or were not free to ſtand to, or avow his Diſcharge which he had given us, and command us aboard, we were ready there to go with him, The Deputy ſaid that was as much as could be deſired, and it was very honeſt, and ſo he departed from us again. Then the Maſter, <hi>Thomas May</hi> appointed us to meet him on the morrow morning at the at the ſea ſide, the which we did accordingly, but <hi>Manning</hi> came, his brother alſo, and another wicked man came with him. And he ſeeing then again that the Maſter would not command us aboard, nor conſent to carry us, and that he could not by any means gain Aſſiſtance from the Deputy and Officers of the Town, to exe<g ref="char:EOLhyphen"/>cut his wretched will and wicken deſign upon us, who according to ſeveral probable circumſtances, thought to have the ſale of us beyond the ſeas for ſlaves, threw off his cloak, and laid violent hands upon us, commanding the other two to do the like, which accordingly they did, and help'd him to force us into an empty boat, then lying on the beach; and becauſe we would not willingly be ſubject to his com<g ref="char:EOLhyphen"/>mand, who we knew had nothing at all to do with us, nor no inte<g ref="char:EOLhyphen"/>reſt at all in the Ship (as we were informed by thoſe who had good reaſon to know, to wit the Maſter, the Maſters Mate, and the Mari<g ref="char:EOLhyphen"/>ners thereof) no, not ſo much as a bed for himſelf to lie upon, although he hath the confidence to ſay, among the reſt of his lies, that he fur<g ref="char:EOLhyphen"/>niſhed us with beds; ſome of us they draged by the legs, head and ſhoul<g ref="char:EOLhyphen"/>ders, trayling upon the ſtones; and ſome of us they carried to the boat, and ſo heaved us all in, at which cruelty all the people that were ſpectators, both men, women, and children (which were very many) were much diſpleaſed, and cryed it was a great ſhame men ſhould be uſed ſo. We ſat in the boat about half an houre at the leaſt, even till the tyde increaſed the waves, and toſſed the boat up at one end; (the boat before being looſe upon the beach.) And all the while we fate there no one man would lay a hand to an Oare to row us aboard, the people that were beholders wi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing the hands of
+<pb n="10" facs="tcp:93788:7"/>
+ſuch as ſhould do it might rot off; ſo when the boat was like to be a float, and conſequently run a drift, we came out of it, and walked a<g ref="char:EOLhyphen"/>gain by the ſea ſide, then we met with <hi>Thomas May</hi> the Maſter, and asked of him, whether he had any thing to ſay to us? he anſwered, if he had he would come again to us. Thus he departed from us and we ſaw him no more, for he went aboard that night, and in the morning, we coming again to the ſea ſide, eſpied the Ship under Sail, and there we ſtood ſome time, the Deputy of the Town happening to be there at the ſame time alſo, who ſaw the Ship ſaile from us, and ſaid he could witneſſe the Ship went from us, and not we from it. As appeareth alſo by the teſtimonial of many witneſſes in this form following.</p>
+            <floatingText xml:lang="eng" type="testimony">
+               <body>
+                  <p>We whoſe names are under written do and ſhall witneſs and te<g ref="char:EOLhyphen"/>ſtifie, if we are thereunto called, That there were four men called Quakers, That is to ſay, <hi>Nicholas Lucas, Francis Pryor, Jeremiah Herne,</hi> and <hi>Samuel Traherne,</hi> All which were put into a boat, by the Order of one who is called <hi>Edward Manning,</hi> upon the twenty fourth day of the laſt month called <hi>November,</hi> all which ſtayed in the boat until the ſea came up to the boat, wherby the boat had like to gone a drift, there being no body in the boat but them four above named, who came out of the boat again and walked up and down near by the boat, and the man that owned the boat (to wit) <hi>Richard Davis,</hi> haled up his boat upon the full to ſecure her from the ſea, the ſaid <hi>Edward Manning</hi> being preſent acted no farther towards them. That the next morning early the ſhip called the <hi>Anne</hi> of <hi>London, Thomas May,</hi> Maſter, ſailed and left the four perſons above named on ſhoare. To the truth hereof we have ſubſcribed our Names the eigth day of the tenth month, called <hi>December,</hi> in the year 1664.</p>
+                  <list>
+                     <item>Richard Jordan.</item>
+                     <item>Henry S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ripling.</item>
+                     <item>Jeffery Safferie</item>
+                     <item>Francis Robinſon.</item>
+                     <item>John Greene.</item>
+                     <item>John Bankes.</item>
+                     <item>Anne Callo.</item>
+                     <item>Humphry Biggleſton.</item>
+                     <item>Jane Biggleſton.</item>
+                     <item>John Lawrance.</item>
+                     <item>William Lawrance.</item>
+                  </list>
+                  <p>Then ſaid we to the Deputy, now if thou as a Magiſtrate<g ref="char:punc">▪</g> haſt any thing to ſay or do to us now the Ship is gone, and left us, thou maieſt, he anſwered he had not, but ſaid, he wiſhed us well, and ſo we depar<g ref="char:EOLhyphen"/>ted
+<pb n="11" facs="tcp:93788:7"/>
+that day from the Town towards <hi>London,</hi> whither we came the third day of the tenth month; And being well acquainted, and ha<g ref="char:EOLhyphen"/>ving had large experience of the enmity and cruelty of ſome of the Magiſtrates of the Town and County of <hi>Hertford,</hi> leaſt they ſhould under the pretence of our being fugitives, ſeize us as Fellons, as they had cauſleſly done our companion <hi>Samuel Trahern,</hi> as is before re<g ref="char:EOLhyphen"/>lated; we thought it expedient to inform the King of our caſe and preſent condition, the which accordingly we did in this manner fol<g ref="char:EOLhyphen"/>lowing, annexing thereunto the Copy of our forementioned diſcharge from the Maſter <hi>Thomas May.</hi>
+                  </p>
+                  <p>Be it known unto the King, or whom elſe it may concern, that whereas we whoſe names are hereafter mentioned, were ſentenced at <hi>Hertford,</hi> for tranſportation to the Kings forraign Plantatious, in order unto which we were brought by the Goaler of <hi>Hertford</hi> unto <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and here imb<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rqued in the Ship called the <hi>Anne</hi> of <hi>London, Thomas May</hi> Commander, who brought us down into the <hi>Downs,</hi> and there ſet us on ſhoar, giving us a certificate ſignifying the cauſe and reaſons why he would not carry us, and the ſhip being ſail<g ref="char:EOLhyphen"/>ed and gone, and left us behind, we came back in order to go home to our wives and families: And thus we thought expedient to informe the King hereof, and herewith alſo to inſert a Copy of the Certificate, which is as followeth.</p>
+                  <p>Then followed a Copy of <hi>Thomas May</hi>'s Certificate as is before recited.</p>
+                  <closer/>
+                  <postscript>
+                     <head>We alſo added this Poſtſcript.</head>
+                     <p>
+                        <hi>And if it be the Kings pleaſure to be further informed in this matter by us or any of us, we may be found or heard on at our reſpective dwellings at or about</hi> Hertford.</p>
+                     <closer>
+                        <dateline>
+                           <hi>London</hi> 
+                           <date>the 4. of the 10. month 1664.</date>
+                        </dateline>
+                        <signed>
+                           <list>
+                              <item>Nicholas Ducas,</item>
+                              <item>Henry Feast,</item>
+                              <item>Henry Marſhall,</item>
+                              <item>Francis Pryor.</item>
+                              <item>Jeremiah Herne,</item>
+                              <item>John Blendall,</item>
+                              <item>Samuel Trahern,</item>
+                           </list>
+                        </signed>
+                     </closer>
+                  </postscript>
+               </body>
+            </floatingText>
+            <p>The which being delivered and read in Council, an Order was paſs'd thereupon, which is as followeth.</p>
+            <pb n="12" facs="tcp:93788:8"/>
+            <floatingText xml:lang="eng" type="order">
+               <body>
+                  <head>
+                     <hi>At the Court at</hi> White-hall <hi>the</hi> 7th. of <hi>Decem.</hi> 1664.</head>
+                  <list>
+                     <head>Preſent,</head>
+                     <item>
+                        <hi>The Kings moſt excellent Majeſty.</hi>
+                     </item>
+                     <item>
+                        <hi>His Royal Highneſs the Duke of</hi> York.</item>
+                     <item>
+                        <hi>Lord Arch Biſhop of</hi> Canter.</item>
+                     <item>
+                        <hi>Lord Treaſurer.</hi>
+                     </item>
+                     <item>
+                        <hi>Lord-Privy Seal.</hi>
+                     </item>
+                     <item>
+                        <hi>Duke of</hi> Albemarle.</item>
+                     <item>
+                        <hi>Marqueſs of</hi> Dorcheſter.</item>
+                     <item>
+                        <hi>Lord Chamberlin.</hi>
+                     </item>
+                     <item>
+                        <hi>Earl of</hi> Berkſhire.</item>
+                     <item>
+                        <hi>Earl of St.</hi> Albans.</item>
+                     <item>
+                        <hi>Earl of</hi> Angleſey.</item>
+                     <item>
+                        <hi>Earl of</hi> Bath.</item>
+                     <item>
+                        <hi>Earl of</hi> Lawderdaile.</item>
+                     <item>
+                        <hi>Lord</hi> Barkley.</item>
+                     <item>
+                        <hi>Mr. Treaſurer.</hi>
+                     </item>
+                     <item>
+                        <hi>Mr. Vice Chamberlin.</hi>
+                     </item>
+                     <item>
+                        <hi>Mr. Secretary</hi> Morrice.</item>
+                     <item>
+                        <hi>Mr. Secretary</hi> Bennet.</item>
+                     <item>
+                        <hi>Mr. Chancel. of the Dutchy.</hi>
+                     </item>
+                     <item>
+                        <hi>Sir</hi> Edward Nicholas.</item>
+                  </list>
+                  <p>WHereas <hi>Nicholas Lucas, Henry Feaſt, Henry Mar<g ref="char:EOLhyphen"/>ſhal, Francis Pryor, John Blendall, Jeremiah Herne,</hi> and <hi>Samuel Trahern,</hi> Perſons convicted at the laſt Aſſizes held at <hi>Hertford</hi> in the County of <hi>Hertford,</hi> and ſentenced to be Tranſported to ſome of his Majeſties Plantations in the <hi>Weſt Indies,</hi> and who accordingly were put on Board the Ship called the <hi>Anne</hi> of <hi>London,</hi> whereof one <hi>Thomas May</hi> was Maſter, and who under<g ref="char:EOLhyphen"/>took and engaged himſelf for their tranſportation, yet ſet them on ſhoare in or about the <hi>Downs,</hi> leaving them at liberty to go whether they pleaſed, and it appearing to be a matter of contrivance and deſign between the ſaid Maſter and perſons before mentioned.</p>
+                  <p>It was this day Ordered (his Majeſty preſent in Coun<g ref="char:EOLhyphen"/>cel) That the High Sheriff of the County of <hi>Hertford</hi> (now being) do cauſe the ſaid <hi>Nicholas Lucas, Henry</hi>
+                     <pb n="13" facs="tcp:93788:8"/>
+                     <hi>Feast, Henry Marſhal, Francis Pryor, John Blendall, Jeremiah Herne,</hi> and <hi>Samuel Traherne</hi> to be apprehend<g ref="char:EOLhyphen"/>ed and ſecured until means of Tranſporting them can be made by ſome ſhipping bound unto thoſe parts.</p>
+               </body>
+            </floatingText>
+            <p>And if it were a contrivanee on our parts, Judge thou O Lord our God, for thy Judgements are Holy, Juſt and True, <hi>and even mira<g ref="char:EOLhyphen"/>culous in our eyes.</hi>
+            </p>
+            <p>Having thus in Gods fear truly and plainly given relation of the whole matter, We leave it to the juſt meaſure of God in every mans conſcience to judge whether our carriage in this thing from firſt to laſt, hath not been wholly innocent, inoffenſive, and abſolutely free and clear before the Lord from thoſe imputations, lies and railing ac<g ref="char:EOLhyphen"/>cuſations heaped up againſt us in that pernicious Pamphlet ſubſcribed by <hi>Edward Maning.</hi> Touching whoſe going down to <hi>Hertford,</hi> bear<g ref="char:EOLhyphen"/>ing his own charges thither, paying Fees for <hi>Samuel Trahern &amp;c.</hi> (as by way of interrogation is alledged in the ſaid Pamphlet) As for Fees there was not one penny paid, and his charges was boarn both horſe and mans meat, and alſo his horſe hire was by us paid for; and his going down was from an earneſt requeſt of his own to <hi>Thomas May,</hi> who would have went himſelf to have juſtified that <hi>Samuel Trahern</hi> had liberty from him to go down to <hi>Hertford.</hi> But <hi>Maning</hi> being officious importun'd <hi>Thomas May</hi> that he might go (its like for ſome bad ends of his own) ſo <hi>May</hi> wrote to the Magiſtrates, &amp; <hi>Maning</hi> rod down, and being <hi>May</hi> did ſend, or permit him to go, we boare his charges horſe and man, as aforeſaid, the Lord knoweth.</p>
+            <p>And whereas this interrogative lier alſo ſayes<hi>: Why did you give me thanks for my kindneſs to you all, and eſpecially for my kindneſs to you at</hi> Hertford? <hi>Why did you promiſe to attend me, to be my true and faithful priſoners, and to go on board with me whenſoever I ſhould re<g ref="char:EOLhyphen"/>quire you?</hi> &amp;c. This is utterly falſe, and he himſelf knows it to be a meer forged lie, for promiſe we never made any to him, and any manner of obligation we never received from him; indeed oft<g ref="char:EOLhyphen"/>times, like one of them called a ſhirk, he thruſt himſelf upon us, and eat of our Victuals, and drank of our wine, which we had provided to have ſerved us at ſea, other intimacy there never was between us; And again we ſay, God knoweth that promiſe to attend him to be
+<pb n="14" facs="tcp:93788:9" rendition="simple:additions"/>
+his priſoners, or go on board with him, whenſoever he ſhould require us, or the like, we never made to him, and an obligation of any ſort we never received from him, and this the righteous God knoweth to be true. And what the falſe man meaneth in charging us in being traytors to him, <hi>its with himſelf,</hi> for none of us ever received any truſt from him, and how therefore we could be traytors to him<g ref="char:punc">▪</g> let the reaſonable judge. As for thoſe texts of Scripture he prophanely quoteth through<g ref="char:EOLhyphen"/>out his diſcourſe, his ſeveral other vain and vile interrogations with thoſe fragments of Latine he alſo interweaveth therewith, with the reſt of his confuſed and non-ſenſical ſtuff, we judge it not worth a replication, it being chiefly in our hearts to declare the truth of Gods dealings with and for us in this matter, and not to meet or anſwer a fool in his folly.</p>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:93788:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
